@@ -1,0 +1,7 @@
+replicate.id	treatment.id	treatment.name
+P0_rep1	P0	1-cell embryo
+P0_rep2	P0	1-cell embryo
+AB_rep1	AB	AB cell
+P1_rep1	P1	P1 cell
+AB_rep2	AB	AB cell
+P1_rep2	P1	P1 cell

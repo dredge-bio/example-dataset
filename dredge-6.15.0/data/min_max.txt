@@ -1,0 +1,3 @@
+	min	max
+logCPM	0	13.1
+logFC	-7.46	8.58
