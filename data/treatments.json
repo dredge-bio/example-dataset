@@ -1,23 +1,23 @@
 {
- "P0":{
-  "label":"1-cell embryo",
-  "replicates":[
-"P0_rep1",
-"P0_rep2"
-  ]
- },
- "AB":{
-  "label":"AB cell",
-  "replicates":[
-"AB_rep1",
-"AB_rep2"
-  ]
- },
- "P1":{
-  "label":"P1 cell",
-  "replicates":[
-"P1_rep1",
-"P1_rep2"
-  ]
- }
+  "P0": {
+    "label": "1-cell embryo",
+    "replicates": [
+      "P0_rep1",
+      "P0_rep2"
+    ]
+  },
+  "AB": {
+    "label": "AB cell",
+    "replicates": [
+      "AB_rep1",
+      "AB_rep2"
+    ]
+  },
+  "P1": {
+    "label": "P1 cell",
+    "replicates": [
+      "P1_rep1",
+      "P1_rep2"
+    ]
+  }
 }
