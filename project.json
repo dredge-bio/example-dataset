@@ -1,0 +1,26 @@
+{
+  "label": "C. elegans 1- and 2-cell stages",
+  "readme": "./data/README.md",
+  "transcriptHyperlink": [
+    {
+      "label": "WormBase",
+      "url": "http://wormbase.org/search/gene/%name"
+    }
+  ],
+  "abundanceLimits": [
+    [
+      -1,
+      14
+    ],
+    [
+      -8,
+      9
+    ]
+  ],
+  "treatments": "./data/treatments.json",
+  "pairwiseName": "./data/pairwise_files/%A_vs_%B.txt",
+  "transcriptAliases": "./data/gene_names.txt",
+  "abundanceMeasures": "./data/tlRPKMs.txt",
+  "diagram": "./data/icons.svg",
+  "grid": "./data/grid.csv"
+}
