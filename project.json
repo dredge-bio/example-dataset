@@ -1,6 +1,6 @@
 {
   "label": "C. elegans 1- and 2-cell stages",
-  "readme": "./data/README.md",
+  "readme": "./about.md",
   "transcriptHyperlink": [
     {
       "label": "WormBase",
@@ -17,10 +17,10 @@
       9
     ]
   ],
-  "treatments": "./data/treatments.json",
-  "pairwiseName": "./data/pairwise_files/%A_vs_%B.txt",
-  "transcriptAliases": "./data/gene_names.txt",
-  "abundanceMeasures": "./data/tlRPKMs.txt",
-  "diagram": "./data/icons.svg",
-  "grid": "./data/grid.csv"
+  "treatments": "./treatments.json",
+  "pairwiseName": "./pairwise_files/%A_vs_%B.tsv",
+  "transcriptAliases": "./transcript_aliases.tsv",
+  "abundanceMeasures": "./expression_matrix.tsv",
+  "diagram": "./icons.svg",
+  "grid": "./grid.csv"
 }
